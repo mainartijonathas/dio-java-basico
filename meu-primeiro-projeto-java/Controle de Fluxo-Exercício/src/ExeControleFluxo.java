@@ -22,7 +22,7 @@ public class ExeControleFluxo {
 
     private static void ifFlecha() {
         // esse formato de flacha o código fica muito extenço e até mesmo ilegível
-        int mes = 9;
+        int mes = 20;
         if (mes == 1) {
             System.out.println("Janeiro");
         } else {
@@ -144,7 +144,7 @@ public class ExeControleFluxo {
 
     private static void switchSemana() {
 
-        String dia = "Terça";
+        String dia = "dfhd";
         switch (dia) {
             case "segunda":
                 System.out.println(2);
