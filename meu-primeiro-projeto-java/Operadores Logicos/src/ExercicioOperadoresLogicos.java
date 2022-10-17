@@ -1,5 +1,3 @@
-import javax.swing.plaf.TextUI;
-
 public class ExercicioOperadoresLogicos {
     public static void main(String[] args) throws Exception {
         boolean b1 = true;
