@@ -17,7 +17,7 @@ public class Ex2_Consoantes {
             System.out.println("Letra: ");
             String letra = scan.next();
             /*
-              .equalsIgnoreCase = é um medo que vai comparar uma variável
+              .equalsIgnoreCase = é um método que vai comparar uma variável
               com a outra e se for igual retornar True 
               e caso for diferente retorna False
              */       
@@ -36,7 +36,7 @@ public class Ex2_Consoantes {
         System.out.println("Consoantes: ");
         for (String consoante : consoantes) {
             if (consoante != null)
-                System.out.println(consoante + " ");;
+                System.out.println(consoante + " ");
         }
         System.out.println("Quantidade de consoantes: " + quantidadeConsoantes);
     }
