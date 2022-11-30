@@ -3,7 +3,7 @@ class Carro {
     String modelo;
     int capacidadeTanque;
 
-    Carro() {
+    Carro() { // contrutor vazio
 
     }
 
